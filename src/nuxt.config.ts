@@ -1,5 +1,10 @@
 export default defineNuxtConfig({
-  modules: ["@nuxtjs/tailwindcss", "shadcn-nuxt", "@pinia/nuxt"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "shadcn-nuxt",
+    "@pinia/nuxt",
+    "@formkit/auto-animate/nuxt",
+  ],
   shadcn: {
     /**
      * Prefix for all the imported component
