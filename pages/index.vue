@@ -32,7 +32,7 @@ const notifications = [
     <div class="flex justify-center items-center h-screen">
         <Card :class="cn('w-[380px]', $attrs.class ?? '')">
             <CardHeader>
-                <CardTitle>Notifications</CardTitle>
+                <CardTitle> Sample Card: Notifications </CardTitle>
                 <CardDescription>You have 3 unread messages.</CardDescription>
             </CardHeader>
             <CardContent class="grid gap-4">
