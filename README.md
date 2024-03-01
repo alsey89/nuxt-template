@@ -4,9 +4,9 @@ This repository contains a starting point for building a Vue.js application with
 
 ## Features
 
-- Framework: **Nuxt 3**
-- CSS Framework: **Tailwind CSS**
-- Component-library: **shadcn-vue**
-- Animation-library: **auto-animate**
-- Store: **Pinia**
-- Axios
+- Framework: **Nuxt 3** https://nuxt.com/
+- CSS Framework: **Tailwind CSS** https://tailwindcss.com/
+- Component-library: **Shadcn-vue** https://www.shadcn-vue.com/docs/introduction.html
+- Animation-library: **Auto-animate** https://auto-animate.formkit.com/
+- Store: **Pinia** https://pinia.vuejs.org/
+- HTTP: **Axios** https://axios-http.com/docs/intro
