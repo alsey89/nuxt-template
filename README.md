@@ -15,12 +15,20 @@ This repository contains a starting point for building a Vue.js application with
 
 To get started with this Nuxt 3 app template, follow these steps to clone the repository, install dependencies, and run your application.
 
-## Clone the Repository
+## To use as a template
+
+On Github, select the **Use this template** >> **Create New Repository**. Then clone the repository and go to the install node modules step.
+
+```
+git clone [YOUR REPOSITORY URL]
+```
+
+## To contribute to the template
 
 First, clone the repository to your local machine. Open your terminal or command prompt and run the following command, making sure to replace `YOUR_REPOSITORY_URL` with the actual URL of your repository:
 
 ```
-git clone https://github.com/alsey89/nuxt-template [your-app-name]
+git clone https://github.com/alsey89/nuxt-template
 ```
 
 ## Install node modules
