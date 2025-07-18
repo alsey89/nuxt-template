@@ -9,12 +9,8 @@ const props = defineProps<{
 
 <template>
   <div
-    :class="
-      cn(
-        'rounded-lg border bg-card text-card-foreground shadow-sm',
-        props.class,
-      )
-    "
+    data-slot="alert-dialog-header"
+    :class="cn('flex flex-col gap-2 text-center sm:text-left', props.class)"
   >
     <slot />
   </div>
