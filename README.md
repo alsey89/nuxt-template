@@ -1,5 +1,12 @@
 # Nuxt Minimal Starter
 
+## Includes
+
+- Nuxt V4 + nuxt modules
+- Tailwind V4
+- Shadcn-nuxt V2 + components
+- Pinia Store
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
